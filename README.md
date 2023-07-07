@@ -4,8 +4,8 @@
 
 ## Data
 #### The data constituted of the following information
-<ul>Orders</ul>
-<ul>Customers</ul>
-<ul>Products</ul>
-<ul>Departments</ul>
+<ol>Orders</ol>
+<ol>Customers</ol>
+<ol>Products</ol>
+<ol>Departments</ol>
 
